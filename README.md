@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Software engineer from the Netherlands, Studied in Germany, working in Spain
 
 
