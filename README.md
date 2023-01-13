@@ -1,8 +1,4 @@
-# About Me:
-# Software engineer
-
-woow
-
+# Software engineering from the Netherlands, Studied in Germany, Working in Spain
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-oomen-netherlands) 
