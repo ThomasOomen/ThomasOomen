@@ -1,5 +1,7 @@
-# Software engineer from the Netherlands, Studied in Germany, working in Spain
-
+# Software developer from the Netherlands.
+Studied in Germany, worked in Spain as a software developer.
+And traveller around the world. 
+#
 # 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-oomen-netherlands) 
 
 
